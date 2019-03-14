@@ -29,3 +29,11 @@ div:hover {
 div:hover h1 {
   color: black;
 }
+
+.one {
+  color: #c10202;
+}
+
+.one:hover {
+  color: black;
+}
