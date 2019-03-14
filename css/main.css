@@ -13,11 +13,6 @@ h1 {
   margin-right: auto;
 }
 
-div {
-  border-radius: 0 50px;
-  background-color: black;
-}
-
 p {
   color: white;
 }
@@ -45,6 +40,8 @@ div:hover h1 {
 
 div {
   margin: 0 1.6em;
+  border-radius: 0 50px;
+  background-color: black;
 }
 
 .band {
