@@ -32,8 +32,25 @@ div:hover h1 {
 
 .one {
   color: #c10202;
+  text-align: center;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
 }
 
 .one:hover {
+  color: black;
+}
+
+div {
+  margin: 0 1.6em;
+}
+
+.band {
+  color: #c10202;
+}
+
+div:hover .band {
   color: black;
 }
