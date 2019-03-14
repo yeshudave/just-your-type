@@ -1,0 +1,31 @@
+html {
+  font-family: Raleway, sans-serif;
+  color: white;
+}
+
+h1 {
+  font-family: "Berkshire Swash", cursive;
+  color: #c10202;
+  text-align: center;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+div {
+  border-radius: 0 50px;
+  background-color: black;
+}
+
+p {
+  color: white;
+}
+
+div:hover {
+  background-color: #c10202;
+}
+
+div:hover h1 {
+  color: black;
+}
